@@ -1,0 +1,275 @@
+[
+    {
+        "id" : 1,
+        "name": "8 Ball Pool Hack",
+        "icon": "img/8ballpoolhack.png",
+        "plist": "Mark/8BallPoolHack",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 2,
+        "name": "BitLife Hack",
+        "icon": "img/BitLife.png",
+        "plist": "Mark/BitLife",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 3,
+        "name": "Bloons TD6 Hack",
+        "icon": "img/bloonstd6hack.png",
+        "plist": "Mark/BloonsTD6Hack",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 4,
+        "name": "Clip",
+        "icon": "img/clip.png",
+        "plist": "Mark/BloonsTD6Hack",
+        "dev": "Riley Reid"
+    },
+    {
+        "id" : 5,
+        "name": "Crossy Road Hack",
+        "icon": "img/crossyroad.png",
+        "plist": "Mark/CrossyRoad",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 6,
+        "name": "CrunchyRoll++",
+        "icon": "img/crunchyroll++.png",
+        "plist": "Mark/CrunchyRoll++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 7,
+        "name": "Delta",
+        "icon": "img/delta.png",
+        "plist": "Mark/Delta",
+        "dev": "Riley Reid"
+    },
+    {
+        "id" : 8,
+        "name": "Electra",
+        "icon": "img/electra.png",
+        "plist": "Mark/Electra",
+        "dev": "CoolStar & Pwn20wnd"
+    },
+    {
+        "id" : 9,
+        "name": "Flappy Bird",
+        "icon": "img/flappybird.png",
+        "plist": "Mark/FlappyBird",
+        "dev": "Brandon Plank"
+    },
+    {
+        "id" : 10,
+        "name": "H3lix",
+        "icon": "img/h3lix.png",
+        "plist": "Mark/H3lix",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 11,
+        "name": "Happy Chick",
+        "icon": "img/happychick.png",
+        "plist": "Mark/HappyChick",
+        "dev": "Xiaoji"
+    },
+    {
+        "id" : 12,
+        "name": "HillClimb2 Hack",
+        "icon": "img/hillclimb2.png",
+        "plist": "Mark/HillClimb2",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 13,
+        "name": "iDos",
+        "icon": "img/idos.png",
+        "plist": "Mark/iDos",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 14,
+        "name": "iDos 2",
+        "icon": "img/idos2.png",
+        "plist": "Mark/iDos2",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 15,
+        "name": "Instagram++",
+        "icon": "img/instagram++.png",
+        "plist": "Mark/Instagram++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 16,
+        "name": "InstagramRocket",
+        "icon": "img/instagramrocket.png",
+        "plist": "Mark/InstagramRocket",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 17,
+        "name": "iSpoofer",
+        "icon": "img/ispoofer.png",
+        "plist": "Mark/iSpoofer",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 18,
+        "name": "iSSB",
+        "icon": "img/issb.png",
+        "plist": "Mark/iSSB",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 19,
+        "name": "iTransmission",
+        "icon": "img/itransmission.png",
+        "plist": "Mark/iTransmission",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 20,
+        "name": "kinemaster++",
+        "icon": "img/kinemaster++.png",
+        "plist": "Mark/kinemaster++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 21,
+        "name": "MAME4iOS",
+        "icon": "img/mame4ios.png",
+        "plist": "Mark/MAME4iOS",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 22,
+        "name": "MeSNEmu",
+        "icon": "img/mesnemu.png",
+        "plist": "Mark/MeSNEmu",
+        "dev": "SarahH"
+    },
+    {
+        "id" : 23,
+        "name": "Minecraft",
+        "icon": "img/minecraft.png",
+        "plist": "Mark/Minecraft",
+        "dev": "Mojang"
+    },
+    {
+        "id" : 24,
+        "name": "Odyssey",
+        "icon": "img/odyssey.png",
+        "plist": "Mark/Odyssey",
+        "dev": "Coolstar, Diatrus, Tihmstar"
+    },
+    {
+        "id" : 25,
+        "name": "Pandora++",
+        "icon": "img/pandora++.png",
+        "plist": "Mark/Pandora++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 26,
+        "name": "Phoenix",
+        "icon": "img/phoenix.png",
+        "plist": "Mark/Phoenix",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 27,
+        "name": "Piano Tiles 2 Hack",
+        "icon": "img/pianotiles2.png",
+        "plist": "Mark/PianoTiles2",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 28,
+        "name": "PicsArt++",
+        "icon": "img/picsart++.png",
+        "plist": "Mark/PicsArt++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 29,
+        "name": "Play!",
+        "icon": "img/play!.png",
+        "plist": "Mark/Play!",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 30,
+        "name": "PPSSPP",
+        "icon": "img/ppsspp.png",
+        "plist": "Mark/PPSSPP",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 31,
+        "name": "Provenance",
+        "icon": "img/provenance.png",
+        "plist": "Mark/Provenance",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 32,
+        "name": "RetroArch",
+        "icon": "img/retroarch.png",
+        "plist": "Mark/RetroArch",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 33,
+        "name": "SoundCloud++",
+        "icon": "img/soundcloud++.png",
+        "plist": "Mark/SoundCloud++",
+        "dev": "Simple Alpaca"
+    },
+    {
+        "id" : 34,
+        "name": "Spotilife+Sposify",
+        "icon": "img/spotilife.png",
+        "plist": "Mark/Spotilife+Sposify",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 35,
+        "name": "TextNow++",
+        "icon": "img/textnow++.png",
+        "plist": "Mark/TextNow++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 36,
+        "name": "Twitter++",
+        "icon": "img/twitter++.png",
+        "plist": "Mark/Twitter++",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 37,
+        "name": "Unc0ver",
+        "icon": "img/unc0ver.png",
+        "plist": "Mark/Unc0ver",
+        "dev": "Pwn20"
+    },
+    {
+        "id" : 38,
+        "name": "UTM",
+        "icon": "img/utm.png",
+        "plist": "Mark/UTM",
+        "dev": "Unknown"
+    },
+    {
+        "id" : 39,
+        "name": "YouTubeMusic++",
+        "icon": "img/youtubemusic++.png",
+        "plist": "Mark/YouTubeMusic++",
+        "dev": "Unknown"
+    }
+]
